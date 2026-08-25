@@ -6,15 +6,7 @@
 **User define data type :
 [int, float, double, char, String]
 
-
-
-
-
-
-
-
-
-## Bubble sort
+## Bubble sort:
 
 ## Binary Search Algorithm
     -> Sorted Array always
@@ -24,7 +16,6 @@
     T(n/4) = T(n/8) + 3c .....
     T(n) = T(n/2^k) + kc
     -> 
-
 
 Properties of rotated Sorted Array :
     1. in the Array one part always be sorted and other part will be unsorted 
