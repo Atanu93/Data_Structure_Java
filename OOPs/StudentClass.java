@@ -18,16 +18,16 @@ public class StudentClass {
 
         Student s2 = new Student("Atanu", 13, 46.8);
 
-        Student s1 = new Student("Rahul", 63, 86.8);
+        // Student s1 = new Student("Rahul", 63, 86.8);
         System.out.println(Student.getNoOfStudents());
-        // System.out.println(s3.name);
+        System.out.println(s3.name);
         // System.out.println(s5.noOfStudents);
-        // s2.name = "Atanu Manna";
-        // s2.percent = 89.5;
-        // // s2.rollNo //private access
-        // // System.out.println(s2.getRollNo());
+        s2.name = "Atanu Manna";
+        s2.percent = 89.5;
+        // s2.rollNo //private access
+        // System.out.println(s2.getRollNo());
 
-        // s2.setRollNo(67);
+        s2.setRollNo(67);
     }
 }
 
